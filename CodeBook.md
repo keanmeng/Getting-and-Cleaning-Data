@@ -25,8 +25,9 @@ For each record in the dataset it is provided:
 'test/y_test.txt': Test labels.
 
 #Dataset Variable:
-Subject
-Activity
+Subject  Activity  
+  
+  
 Extracted Feature Fields
 tBodyAcc-mean()-X (column 1)
 tBodyAcc-mean()-Y (column 2)
