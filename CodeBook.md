@@ -47,10 +47,10 @@ tBodyAccJerk-std()-Y
 tBodyAccJerk-std()-Z  
 tBodyGyro-mean()-X  
 tBodyGyro-mean()-Y  
-tBodyGyro-mean()-Z
-tBodyGyro-std()-X (column 124)
-tBodyGyro-std()-Y (column 125)
-tBodyGyro-std()-Z (column 126)
+tBodyGyro-mean()-Z  
+tBodyGyro-std()-X  
+tBodyGyro-std()-Y  
+tBodyGyro-std()-Z
 tBodyGyroJerk-mean()-X (column 161)
 tBodyGyroJerk-mean()-Y (column 162)
 tBodyGyroJerk-mean()-Z (column 163)
