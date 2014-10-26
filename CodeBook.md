@@ -16,13 +16,15 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-#Dataset files used for analysis:
-'features.txt': List of all features.
-'activity_labels.txt': Links the class labels with their activity name.
-'train/X_train.txt': Training set.
-'train/y_train.txt': Training labels.
-'test/X_test.txt': Test set.
-'test/y_test.txt': Test labels.
+#Dataset files used for analysis:  
+features.txt: List of all features.  
+activity_labels.txt: Links the class labels with their activity name.  
+X_train.txt: Training set.  
+y_train.txt: Training labels.  
+subject_train.txt: Training Subject ID  
+X_test.txt: Test set  
+y_test.txt: Test labels.  
+subject_test.txt: Test Subject ID
 
 #Dataset Variable:
 Subject  
