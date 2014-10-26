@@ -15,7 +15,7 @@ Getting-and-Cleaning-Data Course Project
   - Add-in "Activity" and "Subject" labels to complete the labelling for the data set.
 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-  - Uses "for" loop to create the Tidy Data set.
+  - Uses "for" loop to create the tidy data set.
 
 ## Running the script "run_analysis.R"
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
