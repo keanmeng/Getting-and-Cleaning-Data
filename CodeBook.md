@@ -33,8 +33,11 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals).  
 
-Subject  
-Activity  
+#Variables in Tidy_Data.txt
+Subject: Identifier, identifying each subject Type: Integer Values: 1 : 30  
+Activity: Descriptive name of each subject's activity Type: Factor Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING  
+mean() : mean values of multiple measurements of the original variables. Type: Real number  
+std(): Standard deviation of multiple measurements of the original variables. Type: Real number
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
