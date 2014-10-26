@@ -26,7 +26,7 @@ X_test.txt: Test set
 y_test.txt: Test labels.  
 subject_test.txt: Test Subject ID
 
-#Dataset Variable:
+#Dataset variables for analysis:
 Subject  
 Activity  
 tBodyAcc-mean()-X  
