@@ -25,31 +25,29 @@ For each record in the dataset it is provided:
 'test/y_test.txt': Test labels.
 
 #Dataset Variable:
-Subject  Activity  
-  
-  
-Extracted Feature Fields
-tBodyAcc-mean()-X (column 1)
-tBodyAcc-mean()-Y (column 2)
-tBodyAcc-mean()-Z (column 3)
-tBodyAcc-std()-X (column 4)
-tBodyAcc-std()-Y (column 5)
-tBodyAcc-std()-Z (column 6)
-tGravityAcc-mean()-X (column 41)
-tGravityAcc-mean()-Y (column 42)
-tGravityAcc-mean()-Z (column 43)
-tGravityAcc-std()-X (column 44)
-tGravityAcc-std()-Y (column 45)
-tGravityAcc-std()-Z (column 46)
-tBodyAccJerk-mean()-X (column 81)
-tBodyAccJerk-mean()-Y (column 82)
-tBodyAccJerk-mean()-Z (column 83)
-tBodyAccJerk-std()-X (column 84)
-tBodyAccJerk-std()-Y (column 85)
-tBodyAccJerk-std()-Z (column 86)
-tBodyGyro-mean()-X (column 121)
-tBodyGyro-mean()-Y (column 122)
-tBodyGyro-mean()-Z (column 123)
+Subject  
+Activity  
+tBodyAcc-mean()-X  
+tBodyAcc-mean()-Y  
+tBodyAcc-mean()-Z  
+tBodyAcc-std()-X  
+tBodyAcc-std()-Y  
+tBodyAcc-std()-Z  
+tGravityAcc-mean()-X  
+tGravityAcc-mean()-Y  
+tGravityAcc-mean()-Z  
+tGravityAcc-std()-X  
+tGravityAcc-std()-Y  
+tGravityAcc-std()-Z  
+tBodyAccJerk-mean()-X  
+tBodyAccJerk-mean()-Y
+tBodyAccJerk-mean()-Z  
+tBodyAccJerk-std()-X  
+tBodyAccJerk-std()-Y  
+tBodyAccJerk-std()-Z  
+tBodyGyro-mean()-X  
+tBodyGyro-mean()-Y  
+tBodyGyro-mean()-Z
 tBodyGyro-std()-X (column 124)
 tBodyGyro-std()-Y (column 125)
 tBodyGyro-std()-Z (column 126)
