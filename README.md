@@ -21,5 +21,5 @@ Getting-and-Cleaning-Data Course Project
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 2. In your working directory, create "UCI HAR Dataset" directory and extract the downloaded data into it.
 3. In RStudio, source "run_analysis.R".
-4. "Tidy_Data.txt" as required in Step 5 will be created in the "UCI HAR Dataset" directory.
+4. "Tidy_Data.txt" will be created in the "UCI HAR Dataset" directory.
 
