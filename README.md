@@ -3,13 +3,13 @@ Getting-and-Cleaning-Data Course Project
 
 ##The script "run_analysis.R" does the following
 1. Merges the training and the test sets to create one data set.
-  - Uses Read.table to take in Train and Test X, y and subject, merge the data sets using rbind and cbind.
+  - Use read.table to take in Train and Test X, y and subject, merge the data sets using rbind and cbind.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
-  - Uses grep and gsub to extract the mean and std
+  - Use grep and gsub to extract the mean and std
   
 3. Uses descriptive activity names to name the activities in the data set
-  - Use tolower and gsub to clean up the activity names to create meaningful readable names.
+  - Use tolower and gsub to clean up and create readable, descriptive activity names.
   
 4. Appropriately labels the data set with descriptive activity names.
   - Add-in "Activity" and "Subject" labels to complete the labelling for the data set.
