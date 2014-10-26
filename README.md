@@ -16,7 +16,7 @@ Getting-and-Cleaning-Data Course Project
 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   - Uses dcast to reshape the data and calculate the mean.
-  - Create "Tidy_Data.txt" in "UCI HAR Dataset" directory
+  - Create "Tidy_Data.txt" in "UCI HAR Dataset" directory with write.table() using row.name=FALSE 
 
 ## Running the script "run_analysis.R"
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
