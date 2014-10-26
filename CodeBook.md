@@ -1,6 +1,6 @@
 Getting and Cleaning Data Course Project CodeBook
 =================================================
-This CodeBook describes the dataset and the variables
+This CodeBook describes the dataset and the variables  
 Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 #Data Set Information:
